@@ -6,7 +6,7 @@ An interactive web application to visualize **Data Structures and Algorithms** u
 
 ## 🚀 Demo
 
-🔗 **View Live:** https://your-demo-link.com
+🔗 **View Live:**  https://2430657anshitarajput.github.io/DSA-Visualizer/
 
 ---
 
